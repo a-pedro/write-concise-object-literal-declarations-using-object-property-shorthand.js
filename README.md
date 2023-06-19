@@ -1,0 +1,1 @@
+# write-concise-object-literal-declarations-using-object-property-shorthand.js
